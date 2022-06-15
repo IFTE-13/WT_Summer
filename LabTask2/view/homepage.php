@@ -74,7 +74,7 @@
                     echo $emailError;
                 ?>
             </td>
-            </tr>
+            </tr>   
             <tr>
                 <td><h3>Password:</h3></td>
                 <td><input type="password" name="password" id="">
